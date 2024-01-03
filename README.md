@@ -50,6 +50,3 @@ This repository demonstrates the integration of WhatsApp with Dialogflow CX usin
 * `gen_ai_services.py`: Contains the `DialogFlowReply` class for interacting with Dialogflow CX.
 * `main.py`: Defines the FastAPI application and handles incoming Twilio messages.
 * `requirements.txt`: Lists the required Python dependencies.
-
-## License
-
